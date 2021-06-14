@@ -1,5 +1,7 @@
 # terraform-course
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/c8275eb9-7cf3-4f1b-91c7-d8f2f4c1f75b.svg)](https://app.soluble.cloud/repos/details/github.com/devops-blogger/terraform-course)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/2f6ecda6-75fc-4ab9-a58b-48ab328c5344.svg)](https://app.soluble.cloud/repos/details/github.com/devops-blogger/terraform-course)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/7627119f-12cb-464a-ac19-a79e2b97cce6.svg)](https://app.soluble.cloud/repos/details/github.com/devops-blogger/terraform-course)  
+
 * These files are part of my Udemy course about Terraform
 * Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
 
